@@ -48,7 +48,10 @@ class ViewController: UIViewController {
             }
         }
     }
-   
+    
+    
+    
+    
     func delete2btn(btn1 B1:UIButton,btn2 B2:UIButton){
         B1.isHidden = true
         B2.isHidden = true
